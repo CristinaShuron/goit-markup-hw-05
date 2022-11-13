@@ -109,6 +109,7 @@ p {
 .header-list .head {
   position: relative;
 }
+
 .header-list .head::after {
   content: "";
   display: block;
